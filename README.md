@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Govind-Garg03/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/Govind-Garg03/LeetCode/tree/master/1500-count-largest-group) |
+## Math
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/Govind-Garg03/LeetCode/tree/master/1500-count-largest-group) |
 <!---LeetCode Topics End-->
