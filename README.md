@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1500-count-largest-group](https://github.com/Govind-Garg03/LeetCode/tree/master/1500-count-largest-group) |
+| [2032-largest-odd-number-in-string](https://github.com/Govind-Garg03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Govind-Garg03/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Govind-Garg03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Govind-Garg03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Govind-Garg03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
