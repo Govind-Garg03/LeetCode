@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Govind-Garg03/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Govind-Garg03/LeetCode/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/Govind-Garg03/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
